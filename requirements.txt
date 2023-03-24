@@ -1,4 +1,4 @@
 opencv-python==4.2.0.34
 numpy==1.17.3
-tensorflow-cpu==1.15.0
+tensorflow-cpu==2.11.1
 Pillow==6.2.0
